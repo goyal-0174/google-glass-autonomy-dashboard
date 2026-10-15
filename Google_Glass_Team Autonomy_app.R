@@ -1,6 +1,5 @@
 # ============================================================
-# Google Glass Relaunch — Team Autonomy Dashboard
-# IIM Sirmaur | Beautiful Redesign with bslib + plotly
+# Google Glass Relaunch - Dashboard
 # ============================================================
 
 library(shiny)
