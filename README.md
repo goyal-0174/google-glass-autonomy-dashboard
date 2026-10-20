@@ -1,6 +1,6 @@
 # Google Glass Autonomy Dashboard
 
-An interactive R Shiny dashboard developed by Team Autonomy (IIM Sirmaur) for the SRM Institute of Science and Technology National Product Management Challenge.
+An interactive R Shiny dashboard developed for the SRM Institute of Science and Technology National Product Management Challenge.
 
 ## Live Demo
 (https://r-vani-programming.shinyapps.io/Googleglass01/)
